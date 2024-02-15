@@ -1,3 +1,23 @@
 h1{
     text-align: center;
+    background-color: aqua;
+    box-shadow: 3px 3px 12px;
+    padding: 1rem;
 }
+p{
+    background-color: lightcoral;
+    height: 50vh;
+    text-align: center;
+   padding-top: 4rem;
+   margin-top: 0;
+}
+ footer{
+    padding: 2rem;
+    text-align: center;
+    background-color: bisque;
+    box-shadow: 3px -4px 12px;
+    
+ }
+ ul>li{
+    list-style: none;
+ }
